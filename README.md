@@ -1,1 +1,1 @@
-# Face-Recognisation-in-Classroom-setup
+# Face-Recognition-in-Classroom-setup
